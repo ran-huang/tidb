@@ -1,5 +1,7 @@
 # TiDB Roadmap
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ran-huang.roadmap&left_text=Pageview&left_color=RoyalBlue&right_color=Black)
+
 This roadmap brings you what's coming in the 1-year future, so you can see the new features or improvements in advance, follow the progress, learn about the key milestones on the way, and give feedback as the development work goes on. In the course of development, this roadmap is subject to change based on user needs and feedback. If you have a feature request or want to prioritize a feature, please file an issue on [GitHub](https://github.com/pingcap/tidb/issues).
 
 > **Safe harbor statement:**
